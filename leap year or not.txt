@@ -1,0 +1,6 @@
+year=int(input("Entre 4 digit year"))
+if(year%100==0):
+    if(year%400==0):
+        print("Leap century year")
+    else:
+        print("NOT Leap century year")
