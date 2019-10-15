@@ -1,7 +1,11 @@
-minimum = int(input("Please Enter the Minimum integer Value : "))
-maximum = int(input("Please Enter the Maximum integer Value : "))
+#there is a min and a maximum value to be input
 
+minimum = int(input("Please Enter the Minimum integer Value :  "))
+maximum = int(input("Please Enter the Maximum integer Value :  "))
+
+# share the list of numbers
 print("The List of Natural Numbers from {0} to {1} are".format(minimum, maximum)) 
 
 for i in range(minimum, maximum + 1):
     print (i, end = '  ')
+# answer is in integers too.
