@@ -1,6 +1,9 @@
+# input a comment
 a=int(input("Entre your age"))
+
+#conditions
 if(a>=18):
      print("you Aare elegible to vote")
 else:
-    print("not elegible to vote")
-
+    print("not elegible to vote here")
+#Thats the result
