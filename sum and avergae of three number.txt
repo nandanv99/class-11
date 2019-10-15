@@ -1,0 +1,7 @@
+a=int(input("entre a"))
+b=int(input("entre b"))
+c=int(input("entre c"))
+x=a+b+c
+print(x)
+y=x/3
+print(y)
