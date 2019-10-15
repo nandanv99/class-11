@@ -1,4 +1,6 @@
+# a simple test to check if a number is present in a list
 if 1 in [1,2,3,4,5]: 
     print("yes")
 else:
-    print("not")
+    print("Sorry its not present")
+# conditions if not will say sorry, its not present
