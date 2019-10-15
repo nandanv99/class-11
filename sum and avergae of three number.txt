@@ -1,6 +1,10 @@
+# Its an imp code to canculate
+
 a=int(input("entre a"))
 b=int(input("entre b"))
 c=int(input("entre c"))
+
+# calculation
 x=a+b+c
 print(x)
 y=x/3
